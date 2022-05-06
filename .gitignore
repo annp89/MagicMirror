@@ -68,8 +68,8 @@ Temporary Items
 /css/custom.css
 
 # Ignore users config file but keep the sample.
-/config/*
-!/config/config.js.sample
+# /config/* (Preserve annp89's config upstream)
+#!/config/config.js.sample
 
 # Vim
 ## swap
